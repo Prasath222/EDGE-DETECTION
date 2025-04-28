@@ -1,3 +1,7 @@
+
+### Developed By: Hari prasath p
+### Reg.No: 212224230084 
+
 # EDGE-DETECTION
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
@@ -23,8 +27,8 @@ Using Sobel operator from cv2,detect the edges of the image.
 Using Laplacian operator from cv2,detect the edges of the image and Using Canny operator from cv2,detect the edges of the image.
 
 ## Program:
-### Developed By: KARTHIKEYAN R
-### Reg.No: 212222240046
+### Developed By: Hari prasath p
+### Reg.No: 212224230084
 ```
 import cv2
 import numpy as np
@@ -69,3 +73,6 @@ plt.axis('off')
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
+
+### Developed By: Hari prasath p
+### Reg.No: 212224230084
